@@ -1,0 +1,3 @@
+knn is a Supervised machine learning algorithm.
+Means it has one or multiple independent variables.
+knn is nonlinear learning algorithm.

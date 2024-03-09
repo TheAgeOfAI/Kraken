@@ -1,0 +1,23 @@
+[
+    {
+        "comment" : { 
+            "JSON Syntax Rules" : [
+                "Data is in name/value pairs",
+                "Data is separated by commas",
+                "Curly braces hold objects",
+                "Square brackets hold arrays"
+            ]
+        }
+    },
+    {
+        "word" : {
+            "peculiar" : [
+                "Not ordinary or usual",
+                "odd or strange"
+            ]
+        },
+        "Synonym" : [
+            "strange"
+        ]
+    }
+]

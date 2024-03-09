@@ -1,0 +1,41 @@
+[
+    { 
+        "word_Endings" : [
+            { "mai" : "hu" },
+            { "Aap" : "hai" },
+            { "tum" : "ho" }
+        ] 
+    },
+    {
+        "introduction" : [
+            { "Mera Naam Raj hai" : "My name is Raj" },
+            { "Aap ka naam kya hai" : "What is your name ?" },
+            { "Namaste" : "Greeting" },
+            { "Muje aap se milkar kushi hui" : "I am pleased to meet you" }
+        ],
+        "Nationalities" : [
+            { "Aap German hai" : "You are German" },
+            { "Kya aap German hai" : "Are you German ?" },
+            { "Aap ki nationality kya hai" : "What is your Nationality ?" },
+            { "Ji haa mai German hu" : "Yes,I am German" },
+            { "Mai American hu" : "I mam American" },
+            { "Haa" : "Yes" },
+            { "Ji haa" : "Yes(formal)" }
+        ],
+        "Professions" : [
+            { "Kya aap doctor hai" : "Are you a doctor ?" },
+            { "Aap ka profession kya hai" : "What is your profession ?" },
+            { "Aap doctor hai" : "You are a doctor" },
+            { "Aap doctor nahi hai" : "You are not a doctor" }
+        ],
+        "from, how are you" : [
+            { " Kya aap India se hai" : "Are you from India" },
+            { "Ji haa mai India se hai" : "Yes, I am from India" },
+            { "Aap kaha se hai" : "Where are you from ?" },
+            { "Aap kaise hai" : "How are you ?" },
+            { "Mai teek hu, danyavad" : "I am fine, thanks" },
+            { "vaha paris se hai" : "She is from paris" }
+        ]
+    }
+
+]
