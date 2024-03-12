@@ -12,12 +12,27 @@
     {
         "word" : {
             "peculiar" : [
-                "Not ordinary or usual",
+                "Not ordinary or Not usual",
                 "odd or strange"
             ]
         },
-        "Synonym" : [
+        "Synonyms" : [
             "strange"
         ]
+    },
+    {
+        "word" : {
+            "assertive" : "Someone who is assertive behaves confidently and is not frightened to say what they want or believe"
+        },
+        "Synonyms" : [
+            "confident",
+            "assure"
+        ]
+    },
+    {
+        "word" : {
+            "leverage" : "to use something that you already have in order to achieve something new or better"
+        },
+        "Synonyms" : []
     }
 ]

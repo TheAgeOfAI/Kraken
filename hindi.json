@@ -7,6 +7,11 @@
         ] 
     },
     {
+        "unaddressed" : [
+            "Busy"
+        ]
+    },
+    {
         "introduction" : [
             { "Mera Naam Raj hai" : "My name is Raj" },
             { "Aap ka naam kya hai" : "What is your name ?" },
@@ -35,6 +40,24 @@
             { "Aap kaise hai" : "How are you ?" },
             { "Mai teek hu, danyavad" : "I am fine, thanks" },
             { "vaha paris se hai" : "She is from paris" }
+        ],
+        "to be ,sentence construction" : [
+            { "hona" : "to be" },
+            { "mai hu" : "I am" },
+            { "yah hai" : ["This is", "It is"] },
+            { "vah hai" : ["He is", "She is", "That is"] },
+            { "ham hai" : "We are" },
+            { "way hai" : "They are" },
+            { "Aap hai" : "You are(formal)" },
+            { "tum ho" : "You are(informal)" },
+            { "teek" : "fine" },
+            { "khali" : "free" },
+            { "bimar" : "sick" }
+        ],
+        "Where is it, Where are you" : [
+            { "Kya tum delhi may ho" : "Are you in delhi" },
+            { "Kya tum abhi railway station par ho" : "Are you at the railway station now ?" },
+            { "" : "" }
         ]
     }
 
