@@ -57,6 +57,36 @@
         "Where is it, Where are you" : [
             { "Kya tum delhi may ho" : "Are you in delhi" },
             { "Kya tum abhi railway station par ho" : "Are you at the railway station now ?" },
+            { "May" : "in" },
+            { "Ghar" : "home" },
+            { "abhi" : "now" },
+            { "aaj" : "today" },
+            { "par" : "at" },
+            { "kaha" : "where" }
+        ],
+        "there is something, is there?" : [
+            { "Kya hotel may swimming pool hai" : "Is there a hotel in the swimming pool." },
+            { "Hotel ka swimming pool kaisa hai" : "How is the hotel's swimming pool?" }
+        ],
+        "Masculine nouns and adjectives" : [
+            { "bada" : "big" },
+            { "chota" : "small" },
+            { "achha" : "good" },
+            { "Mehanga" : "expensive" },
+            { "sasta" : "cheap" },
+            { "tanda" : "cold" },
+            { "shahar" : "city" },
+            { "khana" : "food" },
+            { "sundar" : "beautifyl" },
+            { "saaf" : "clean" },
+            { "Theyz" : "fast" },
+            { "theek" : "okay" },
+            { "Gharam" : "hot / warm" },
+            { "kamara" : "room" },
+            { "datvaja" : "door" }
+        ],
+        "Feminine nouns and adjectives" : [
+            { "sabzi" : "vegetable" },
             { "" : "" }
         ]
     }

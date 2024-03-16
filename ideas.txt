@@ -1,0 +1,12 @@
+# If you got an idea , then note it down. So when you got free time you can make your idea a reality.
+
+1. Stock market process.
+    It shows how people buy stocks, get profit or loss.
+    All data related to the money flow is shown.
+
+2. Network analyzer
+    Use ping command to get ping of any website so that we get network speed.
+    Redirect to ping data to a file so that it can be accessed later.
+    Use grep or re to filter numeric data.
+    Use matplotlib to display plots of ping over time.
+    store csv data of ping and time for later machine learning models.
