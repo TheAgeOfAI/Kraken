@@ -34,5 +34,19 @@
             "leverage" : "to use something that you already have in order to achieve something new or better"
         },
         "Synonyms" : []
+    },
+    {
+        "word" : {
+            "inevitable" : "Impossible to avoid or prevent; certain to happen."
+        },
+        "Synonyms" : [
+            "certain"
+        ]
+    },
+    {
+        "word" : {
+            "agile" : "able to move your body quickly and easily, able to think quickly and clearly"
+        },
+        "Synonyms" : []
     }
 ]
