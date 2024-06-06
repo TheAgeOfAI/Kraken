@@ -32,8 +32,7 @@
     {
         "word" : {
             "leverage" : "to use something that you already have in order to achieve something new or better"
-        },
-        "Synonyms" : []
+        }
     },
     {
         "word" : {
@@ -46,7 +45,359 @@
     {
         "word" : {
             "agile" : "able to move your body quickly and easily, able to think quickly and clearly"
+        }
+    },
+    {
+        "word" : {
+            "pragmatic" : [
+                "relating to a practical point of view or practical considerations.",
+                "based on practical judgments rather than principles"
+            ]
+        },
+        "Synonyms" : [
+            "practical"
+        ]
+    },
+    {
+        "word" : {
+            "pervasive" : [
+                "Existing in or spreading through every part of something",
+                "Noticable in every part of a thing or place"
+            ]
+        }
+    },
+    {
+        "word" : {
+            "dread" : [
+                "To feel extremely worried or frightened about something that is going to happen or might happen.",
+                "A strong feeling of fear or worry"
+            ]
+        }
+    },
+    {
+        "word" : {
+            "mortgage" : [
+                "an agreement that allows you to borrow money from a bank or similar organization especially to buy a house.",
+                "to borrow money to buy a house"
+            ]
+        }
+    },
+    {
+        "word" : {
+            "perpetual" : [
+                "continuing forever in the same way",
+                "happening in the same way",
+                "something that never ends or changes"
+            ]
+        }
+    },
+    {
+        "word" : {
+            "journal" : [
+                "a book or other record of the daily life of a person or group"
+            ]
+        }
+    },
+    {
+        "word" : {
+            "eradicate" : []
         },
         "Synonyms" : []
-    }
+    },
+    {
+        "word" : {
+            "offend" : []
+        },
+        "Synonyms" : []
+    },
+    {
+        "word" : {
+            "inception" : [
+                "the beginning of an organization or official activity",
+                "beginning,"
+            ]
+        }
+    },
+    {
+        "word" : {
+            "vague" : [
+                "not clear in meaning or expression",
+                "not clear expressed or stated or known"
+            ]
+        }
+    },
+    {
+        "word" : {
+            "generic" : [
+                "relating to or characteristic of a whole group or class ",
+                "having no particularly distinctive quality",
+                "relating to a whole group of similar things, rather than to any particular thing"
+            ]
+        }
+    },
+    {
+        "word": {
+            "absurd": [
+                "Extremely unreasonable",
+                "Foolish",
+                "Silly"
+            ]
+        }
+    },
+    {
+        "word": {
+            "prior": [
+                "Before in time or order",
+                "Previous"
+            ]
+        }
+    },
+    {
+        "word": {
+            "compulsive": [
+                "Having an irresistible urge",
+                "Uncontrollable"
+            ]
+        }
+    },
+    {
+        "word": {
+            "incessant": [
+                "Continuing without pause",
+                "Unceasing"
+            ]
+        }
+    },
+    {
+        "word": {
+            "distorted": [
+                "Twisted or deformed",
+                "Altered from its original shape"
+            ]
+        }
+    },
+    {
+        "word": {
+            "tormentor": [
+                "One who causes great suffering or distress",
+                "Someone who torments or harasses"
+            ]
+        }
+    },
+    {
+        "word": {
+            "liberation": [
+                "The act of setting someone free",
+                "Freedom from limits or constraints"
+            ]
+        }
+    },
+    {
+        "word": {
+            "condemn": [
+                "To express strong disapproval",
+                "To pronounce guilty and sentence to punishment"
+            ]
+        }
+    },
+    {
+        "word": {
+            "subside": [
+                "To become less intense, severe, or prominent",
+                "To decrease in intensity or violence"
+            ]
+        }
+    },
+    {
+        "word": {
+            "obscured": [
+                "Hidden, not easily seen or understood",
+                "Muddled"
+            ]
+        }
+    },
+    {
+        "word": {
+            "subtle": [
+                "Not immediately obvious",
+                "Delicate, not obvious or explicit"
+            ]
+        }
+    },
+    {
+        "word": {
+            "emanation": [
+                "Something that flows out or emits",
+                "The act of coming forth from a source"
+            ]
+        }
+    },
+    {
+        "word": {
+            "vitality": [
+                "Energy or liveliness",
+                "The capacity for survival or for the continuation of a meaningful existence"
+            ]
+        }
+    },
+    {
+        "word": {
+            "phantom": [
+                "Something that is not real or is only imagined",
+                "An illusion or apparition"
+            ]
+        }
+    },
+    {
+        "word": {
+            "sap": [
+                "To weaken or drain of energy",
+                "To deplete strength or vitality"
+            ]
+        }
+    },
+    {
+        "word": {
+            "dwelling": [
+                "A place where people live",
+                "A residence or habitation"
+            ]
+        }
+    },
+    {
+        "word": {
+            "intrinsic": [
+                "Belonging naturally",
+                "Essential"
+            ]
+        }
+    },
+    {
+        "word": {
+            "arsonist": [
+                "One who commits the crime of intentionally setting fire to property",
+                "A person who starts fires intentionally"
+            ]
+        }
+    },
+    {
+        "word": {
+            "flick": [
+                "A sudden quick movement",
+                "To touch or hit lightly and quickly"
+            ]
+        }
+    },
+    {
+        "word": {
+            "euphoria": [
+                "A feeling of great happiness or well-being",
+                "An intense state of happiness and self-confidence"
+            ]
+        }
+    },
+    {
+        "word": {
+            "craving": [
+                "A powerful desire for something",
+                "An intense longing or yearning"
+            ]
+        }
+    },
+    {
+        "word": {
+            "salvation": [
+                "The act of saving or protecting from harm",
+                "Deliverance from sin or evil"
+            ]
+        }
+    },
+    {
+        "word": {
+            "intimate": [
+                "Close or familiar",
+                "Characterized by a close or warm personal relationship"
+            ]
+        }
+    },
+    {
+        "word": {
+            "futile": [
+                "Having no result or effect",
+                "Pointless or useless"
+            ]
+        }
+    },
+    {
+        "word": {
+            "insane": [
+                "Seriously mentally ill",
+                "Unable to think in a clear or sensible way"
+            ]
+        }
+    },
+    {
+        "word": {
+            "dormant": [
+                "Inactive, asleep, or suspended",
+                "Not active but capable of becoming active"
+            ]
+        }
+    },
+    {
+        "word": {
+            "obnoxious": [
+                "Extremely unpleasant",
+                "Disgusting or offensive"
+            ]
+        }
+    },
+    {
+        "word": {
+            "somber": [
+                "Dark, gloomy, or serious",
+                "Grave or depressing in character"
+            ]
+        }
+    },
+    {
+        "word": {
+            "perpetrator": [
+                "One who commits a crime or wrongdoing",
+                "The person who does something wrong or criminal"
+            ]
+        }
+    },
+    {
+        "word": {
+            "vehemently": [
+                "With intense emotion or conviction",
+                "Forcefully or passionately"
+            ]
+        }
+    },
+    {
+        "word": {
+            "transmute": [
+                "To change in form, nature, or substance",
+                "To transform or convert"
+            ]
+        }
+    },
+    {
+        "word": {
+            "sustain": [
+                "To support or uphold",
+                "To endure or suffer through"
+            ]
+        }
+    },
+    {
+        "word": {
+            "esoteric": [
+                "Intended for or likely to be understood by only a small number of people",
+                "Obscure or mysterious"
+            ]
+        }
+    }    
 ]
