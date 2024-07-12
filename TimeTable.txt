@@ -1,0 +1,146 @@
+Seaborn
+
+Week 1: Getting Started with Seaborn
+
+    Day 1-2: Introduction to Seaborn, installation, and basic plotting using Seaborn's high-level functions (sns.scatterplot(), sns.lineplot(), etc.).
+    Day 3-4: Customizing plots: styling, colors, markers, and themes.
+    Day 5-7: Working with different data types: numeric data, categorical data, and understanding the structure of Seaborn's DataFrame input.
+
+Week 2: Plot Types and Visualizations
+
+    Day 1-2: Exploratory Data Analysis (EDA) with Seaborn: distribution plots (sns.histplot(), sns.kdeplot()), box plots (sns.boxplot()), and violin plots (sns.violinplot()).
+    Day 3-4: Understanding relationships: scatter plots with sns.scatterplot(), pair plots with sns.pairplot(), and joint plots with sns.jointplot().
+    Day 5-7: Advanced visualization techniques: heatmaps (sns.heatmap()), cluster maps (sns.clustermap()), and time series plots (sns.lineplot() with datetime data).
+
+Week 3: Statistical Visualization and Advanced Topics
+
+    Day 1-2: Statistical estimation and error bars: bar plots (sns.barplot()), point plots (sns.pointplot()), and error bars (ci parameter).
+    Day 3-4: Regression analysis: understanding and visualizing linear relationships using sns.regplot() and sns.lmplot().
+    Day 5-6: Multivariate visualization: using hue, size, and style parameters to visualize multiple variables simultaneously.
+    Day 7: Advanced customization and styling: understanding Seaborn's underlying Matplotlib objects for fine-tuning plots, and exploring Seaborn's advanced customization options.
+
+Week 4: Real-world Projects and Application
+
+    Day 1-2: Data visualization projects: work on small projects or datasets to apply what you've learned.
+    Day 3-4: Practicing with larger datasets: learn techniques for handling and visualizing larger datasets efficiently.
+    Day 5-6: Case studies and examples: explore real-world examples and case studies of Seaborn usage in data analysis and visualization.
+    Day 7: Review and reinforcement: revisit any topics or concepts you found challenging, and solidify your understanding through practice and review.
+
+
+
+
+Pandas
+
+Week 1: Introduction to Pandas and Basic Operations
+
+    Day 1-2: Introduction to Pandas: understanding Series and DataFrame objects, installing Pandas, and basic data manipulation operations.
+    Day 3-4: Indexing and selecting data: using loc, iloc, and Boolean indexing to select rows and columns from DataFrames.
+    Day 5-7: Data cleaning and preprocessing: handling missing values, removing duplicates, and performing basic data cleaning operations.
+
+Week 2: Data Manipulation and Analysis
+
+    Day 1-2: Data aggregation and grouping: using groupby to aggregate data and compute summary statistics.
+    Day 3-4: Merging and joining datasets: combining multiple DataFrames using merge, join, and concat operations.
+    Day 5-7: Advanced data manipulation techniques: reshaping data with pivot, melt, and stack/unstack operations.
+
+Week 3: Time Series Data and Advanced Topics
+
+    Day 1-2: Working with time series data: understanding datetime objects, resampling, and time zone handling.
+    Day 3-4: Handling large datasets: techniques for efficient memory management and processing of large datasets.
+    Day 5-6: Advanced indexing and selection: using multi-level indexing, hierarchical indexing, and advanced selection techniques.
+    Day 7: Performance optimization and best practices: optimizing Pandas code for performance and following best practices for efficient data analysis.
+
+Week 4: Real-world Projects and Application
+
+    Day 1-2: Data analysis projects: work on small projects or datasets to apply what you've learned.
+    Day 3-4: Practicing with real-world datasets: explore public datasets and Kaggle competitions to apply Pandas skills in real-world scenarios.
+    Day 5-6: Case studies and examples: study real-world examples and case studies of Pandas usage in data analysis and manipulation.
+    Day 7: Review and reinforcement: revisit any topics or concepts you found challenging, and solidify your understanding through practice and review.
+    
+    
+    
+    
+    
+
+⭐️ Course Contents ⭐️
+0:00:00 Course Introduction
+
+Lecture 1
+0:01:42 Python Programming Fundamentals
+0:02:40 Course Curriculum
+0:05:24 Notebook - First Steps with Python and Jupyter
+0:08:30 Performing Arithmetic Operations with Python
+0:11:34 Solving Multi-step problems using variables
+0:20:17 Combining conditions with Logical operators
+0:22:22 Adding text using Markdown
+0:23:50 Saving and Uploading to Jovian
+0:26:38 Variables and Datatypes in Python
+0:31:28 Built-in Data types in Python
+1:07:19 Further Reading
+
+Lecture 2
+1:08:46 Branching Loops and Functions
+1:09:02 Notebook - Branching using conditional  statements and loops in Python
+1:09:24 Branching with if, else, elif
+1:15:25 Non Boolean conditions
+1:19:00 Iteration with while loops
+1:28:57 Iteration with for loops
+1:36:27 Functions and scope in Python
+1:36:53 Creating and using functions
+1:42:24 Writing great functions in Python
+1:45:38 Local variables and scope
+2:08:19 Documentation functions using Docstrings
+2:11:40 Exercise - Data Analysis for Vacation Planning
+
+Lecture 3
+2:17:17 Numercial Computing with Numpy
+2:18:00 Notebook - Numerical Computing with Numpy
+2:26:09 From Python Lists to Numpy Arrays
+2:29:09 Operating on Numpy Arrays
+2:34:33 Multidimensional Numpy Arrays
+3:03:41 Array Indexing and Slicing
+3:17:49 Exercises and Further Reading
+3:20:50 Assignment 2 - Numpy Array Operations
+3:29:16 100 Numpy Exercises
+3:31:25 Reading from and Writing to Files using Python
+
+Lecture 4
+4:02:59 Analysing Tabular Data with Pandas
+4:03:58 Notebook - Analyzing Tabular Data with Pandas
+4:16:33 Retrieving Data from a Data Frame
+4:32:00 Analyzing Data from Data Frames
+4:36:27 Querying and Sorting Rows
+5:01:45 Grouping and Aggregation
+5:11:26 Merging Data from Multiple Sources
+5:26:00 Basic Plotting with Pandas
+5:38:27 Assignment 3 - Pandas Practice
+
+Lecture 5
+5:52:48 Visualization with Matplotlib and Seaborn
+5:54:04 Notebook - Data Visualization with Matplotlib and Seaborn
+6:06:43 Line Charts
+6:11:27 Improving Default Styles with Seaborn
+6:16:51 Scatter Plots
+6:28:14 Histogram
+6:38:47 Bar Chart
+6:50:00 Heatmap
+6:57:08 Displaying Images with Matplotlib
+7:03:37 Plotting multiple charts in a grid
+7:15:42 References and further reading
+7:20:17 Course Project - Exploratory Data Analysis
+
+Lecture 6
+7:49:56 Exploratory Data Analysis - A Case Study
+7:50:55 Notebook - Exploratory Data Analysis - A case Study
+8:04:36 Data Preparation and Cleaning
+8:19:37 Exploratory Analysis and Visualization
+8:54:02 Asking and Answering Questions
+9:22:57 Inferences and Conclusions
+9:25:00 References and Future Work
+9:29:41 Setting up and running Locally
+9:34:21 Project Guidelines
+9:45:00 Course Recap
+9:48:01 What to do next?
+9:49:10 Certificate of Accomplishment
+9:50:11 What to do after this course?
+9:52:16 Jovian Platform

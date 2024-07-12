@@ -1,0 +1,13 @@
+This file contains the AI applications I am using .
+1. ChatGPT - text based
+2. Refact - Automatic code completion.
+3. Character - Chat with a person.
+4. Yep.so - website builder
+5. netjet.io - website builder
+6. zipwp.com - website builder
+7. jimdo.com - website builder
+8. 11cast.pro - text to audio
+9. mage.space - Image Creation
+10. civitai.com - AI Models
+11. rendernet.ai - Create AI Images
+12. usecanyon.com - All-in-one Job Seeker platform
